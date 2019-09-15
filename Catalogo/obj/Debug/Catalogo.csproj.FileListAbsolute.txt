@@ -1,0 +1,10 @@
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\bin\Debug\Catalogo.dll
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\bin\Debug\Dominio.dll
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\bin\Debug\Dominio.pdb
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\obj\Debug\Catalogo.csprojAssemblyReference.cache
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\obj\Debug\Catalogo.csproj.CopyComplete
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\obj\Debug\Catalogo.dll
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\Javier Pereyra\source\repos\Articulos\Catalogo\bin\Debug\Catalogo.dll.config

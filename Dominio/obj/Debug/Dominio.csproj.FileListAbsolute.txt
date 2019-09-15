@@ -1,0 +1,6 @@
+C:\Users\Javier Pereyra\source\repos\Articulos\Dominio\bin\Debug\Dominio.dll
+C:\Users\Javier Pereyra\source\repos\Articulos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Javier Pereyra\source\repos\Articulos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Javier Pereyra\source\repos\Articulos\Dominio\obj\Debug\Dominio.dll
+C:\Users\Javier Pereyra\source\repos\Articulos\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Javier Pereyra\source\repos\Articulos\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
